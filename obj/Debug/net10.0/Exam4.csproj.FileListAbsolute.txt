@@ -1,0 +1,14 @@
+C:\Users\mardin it\OneDrive\Desktop\С# projects\Exam4\bin\Debug\net10.0\Exam4.exe
+C:\Users\mardin it\OneDrive\Desktop\С# projects\Exam4\bin\Debug\net10.0\Exam4.deps.json
+C:\Users\mardin it\OneDrive\Desktop\С# projects\Exam4\bin\Debug\net10.0\Exam4.runtimeconfig.json
+C:\Users\mardin it\OneDrive\Desktop\С# projects\Exam4\bin\Debug\net10.0\Exam4.dll
+C:\Users\mardin it\OneDrive\Desktop\С# projects\Exam4\bin\Debug\net10.0\Exam4.pdb
+C:\Users\mardin it\OneDrive\Desktop\С# projects\Exam4\obj\Debug\net10.0\Exam4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mardin it\OneDrive\Desktop\С# projects\Exam4\obj\Debug\net10.0\Exam4.AssemblyInfoInputs.cache
+C:\Users\mardin it\OneDrive\Desktop\С# projects\Exam4\obj\Debug\net10.0\Exam4.AssemblyInfo.cs
+C:\Users\mardin it\OneDrive\Desktop\С# projects\Exam4\obj\Debug\net10.0\Exam4.csproj.CoreCompileInputs.cache
+C:\Users\mardin it\OneDrive\Desktop\С# projects\Exam4\obj\Debug\net10.0\Exam4.dll
+C:\Users\mardin it\OneDrive\Desktop\С# projects\Exam4\obj\Debug\net10.0\refint\Exam4.dll
+C:\Users\mardin it\OneDrive\Desktop\С# projects\Exam4\obj\Debug\net10.0\Exam4.pdb
+C:\Users\mardin it\OneDrive\Desktop\С# projects\Exam4\obj\Debug\net10.0\Exam4.genruntimeconfig.cache
+C:\Users\mardin it\OneDrive\Desktop\С# projects\Exam4\obj\Debug\net10.0\ref\Exam4.dll
